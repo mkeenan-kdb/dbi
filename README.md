@@ -1,3 +1,5 @@
+Demonstration code - for teaching purposes
+
 We want to catalogue kdb+ databases.
 Cannot just load db (\l /path/to/db) because if the db is corrupted, that may not work
 We want to label each column within a table, so it should gather metrics even if the table or specific columns are corrupted
